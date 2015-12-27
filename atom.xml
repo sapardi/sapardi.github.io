@@ -4,7 +4,7 @@
   <title><![CDATA[Write Your Inspiration]]></title>
   <link href="http://sapardi.github.io/atom.xml" rel="self"/>
   <link href="http://sapardi.github.io/"/>
-  <updated>2015-12-27T17:20:02+07:00</updated>
+  <updated>2015-12-27T17:25:26+07:00</updated>
   <id>http://sapardi.github.io/</id>
   <author>
     <name><![CDATA[Sapardi]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Selamat Datang]]></title>
+    <link href="http://sapardi.github.io/blog/2015/12/27/selamat-datang/"/>
+    <updated>2015-12-27T17:23:52+07:00</updated>
+    <id>http://sapardi.github.io/blog/2015/12/27/selamat-datang</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
