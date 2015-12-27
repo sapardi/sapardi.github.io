@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Write Your Inspiration]]></title>
+  <title><![CDATA[Inspire Me!]]></title>
   <link href="http://sapardi.github.io/atom.xml" rel="self"/>
   <link href="http://sapardi.github.io/"/>
-  <updated>2015-12-27T17:25:26+07:00</updated>
+  <updated>2015-12-27T21:00:40+07:00</updated>
   <id>http://sapardi.github.io/</id>
   <author>
     <name><![CDATA[Sapardi]]></name>
@@ -18,7 +18,17 @@
     <link href="http://sapardi.github.io/blog/2015/12/27/selamat-datang/"/>
     <updated>2015-12-27T17:23:52+07:00</updated>
     <id>http://sapardi.github.io/blog/2015/12/27/selamat-datang</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>Salam Blogger&hellip;</p>
+
+<p>Inspirasi selalu datang dan pergi tanpa kita sadari&hellip;</p>
+
+<p>Terlalu banyak inspirasi yang terlewati, tapi hanya beberapa yang dapat dituliskan&hellip;</p>
+
+<p>Inspirasi itu seluas bumi dan langit&hellip;</p>
+
+<p>Inspirasi itu ketika datang seperti badai, tidak dapat ditangkap, kecuali hanya segelintir&hellip;</p>
+
+<p>So&hellip;Jangan sia-siakan</p>
 ]]></content>
   </entry>
   
